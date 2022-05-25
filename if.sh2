@@ -1,0 +1,6 @@
+if [ password -eq 1234 ]
+then
+echo  'you entered a valid password'
+echo 'welcome to TD'
+fi
+

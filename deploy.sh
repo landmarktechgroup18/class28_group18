@@ -1,0 +1,12 @@
+#!/bin/bash
+
+
+echo "welcome to landmark"
+
+echo " apps are ready for deployment"
+
+
+
+sleep 5 
+
+echo " deployment successfull "
