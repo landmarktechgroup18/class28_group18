@@ -5,7 +5,7 @@ echo "welcome to landmark"
 
 echo " apps are ready for deployment"
 
-
+# bugs removed 
 
 sleep 5 
 
