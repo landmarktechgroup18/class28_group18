@@ -10,3 +10,6 @@ echo " apps are ready for deployment"
 sleep 5 
 
 echo " deployment successfull "
+
+echo "bugs remove
+"
