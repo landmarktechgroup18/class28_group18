@@ -239,3 +239,10 @@ git checkout master
 ls
 su
 sudo su
+ls
+useradd cecile
+su cecile
+ls
+touch .gitignore
+git status
+sudo su
